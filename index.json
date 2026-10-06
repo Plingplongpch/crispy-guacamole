@@ -6,7 +6,7 @@
       ],
       "sha256": "ae01fefc1cf5e502acd7cc754a446dd49638485026eb75ea44525e8b81c591b3",
       "sha3_256": "714e9b3f7f4a4be643a111f656fed290bf71aa9bc2fcc9cec1ac06d93a01bdea",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/bash.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/bash.xspkg"
     },
     "ca-certificates": {
       "provides": [
@@ -14,7 +14,7 @@
       ],
       "sha256": "7ffa266e0c187cd7ca673037cc89f5b854fe824ebb9deb25ffb85909271dcd45",
       "sha3_256": "0da14cea2fd63ea51eccdec711f74670fd0dce016fb47f738aaaaee9f4b45a45",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/ca-certificates.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/ca-certificates.xspkg"
     },
     "coreutils": {
       "provides": [
@@ -125,7 +125,7 @@
       ],
       "sha256": "721a0d277b17a304c171bfd8c07b6baa0c9db26627cc7b7067721c47ef5371c6",
       "sha3_256": "db73ccb673a8b86cb95df8352121a8ca8485248def88efd377496875ac0941f2",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/coreutils.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/coreutils.xspkg"
     },
     "filesystem": {
       "provides": [
@@ -135,7 +135,7 @@
       ],
       "sha256": "bb5c8e10101a5339a3379a93a598451a9a081fc5af918353b39ad34dda33900a",
       "sha3_256": "796c173a401bb3c507f5884d0b2baa56c4542d440a9f8368f9d2778694ec6f0e",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/filesystem.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/filesystem.xspkg"
     },
     "nss-config": {
       "provides": [
@@ -143,7 +143,7 @@
       ],
       "sha256": "5d4b83f15d58bc7488a94a99a95c698b0c78d25ba7417354d3f046d63c530c78",
       "sha3_256": "cba0bb0065987933531d7ee8063d9e094b2276bdf2de47cef01bceca4d23f021",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/nss-config.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/nss-config.xspkg"
     },
     "pkxs": {
       "provides": [
@@ -151,7 +151,7 @@
       ],
       "sha256": "7c1689d8367023ec2bbfa7b726d4200c619fe5205cdd9182dfa90917fe81cd58",
       "sha3_256": "4bb321ab22482c6ed4c658b6ca8a84bf6a2807b85815ee06512b993eb20cc422",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/pkxs.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/pkxs.xspkg"
     },
     "so-ld-linux-x86-64.so.2": {
       "provides": [
@@ -160,7 +160,7 @@
       ],
       "sha256": "a6d91f1889f8e51e51e37e07fa1ce0f2d9531641ad5384ace684b5a28059fed6",
       "sha3_256": "2b83179b737bdd4feebade15a8b2c916bd3f0df0107b25dd596305ff60150a3f",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-ld-linux-x86-64.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-ld-linux-x86-64.so.2.xspkg"
     },
     "so-libacl.so.1": {
       "provides": [
@@ -169,7 +169,7 @@
       ],
       "sha256": "d4569112987c4fcac7f726e825eeb5c7d45743ee77f9ace640c68445caea6482",
       "sha3_256": "6412ae6dacb200d6c76718a0eb138f991a902025c42d967fa21c4f93bfc1df34",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libacl.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libacl.so.1.xspkg"
     },
     "so-libarchive.so.13": {
       "provides": [
@@ -178,7 +178,7 @@
       ],
       "sha256": "e6aa6c9d033bd0ae18f9d5da3d129dddf70214644e2a3ee33f9f9cfdb14a99e7",
       "sha3_256": "8bf25ebafde2debe5c0c4230948ac0998251527e34e68d919500d84798e3ce8d",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libarchive.so.13.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libarchive.so.13.xspkg"
     },
     "so-libattr.so.1": {
       "provides": [
@@ -187,7 +187,7 @@
       ],
       "sha256": "6292653e7c57ffdab7bb2db9d2e0a4ee07a05c70bc0f2233738878e939a35c79",
       "sha3_256": "80fe2bb14116a795f1f7e8953f368ff3a4650d4aaa0577e43831f984b4109bf7",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libattr.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libattr.so.1.xspkg"
     },
     "so-libbrotlicommon.so.1": {
       "provides": [
@@ -196,7 +196,7 @@
       ],
       "sha256": "eec66b15bf20954410ff12856c1cf09cf4f3a51e6628d3bf57700f720c68f7d3",
       "sha3_256": "4f4b4afb75b85eeb0654fbb7ea2483eae7e7299883f04ae49b5902437da6345d",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libbrotlicommon.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libbrotlicommon.so.1.xspkg"
     },
     "so-libbrotlidec.so.1": {
       "provides": [
@@ -205,7 +205,7 @@
       ],
       "sha256": "c4eaa9052ebf7baa55b7b7b827089c62218ad63b81e97c76f59c6ce0ee9fdcb6",
       "sha3_256": "442e2c490f24f7737364355b3345317dfad14e3e060f386693d6751a064acf6d",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libbrotlidec.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libbrotlidec.so.1.xspkg"
     },
     "so-libbz2.so.1.0": {
       "provides": [
@@ -214,7 +214,7 @@
       ],
       "sha256": "02542c8b7413eab9b11f2dae4c86d0d91c732ccac970f7ff46c4b076d4b4538c",
       "sha3_256": "848f6e14156b19258e0b0aa5333c66cf50be86b788d596b47061ba0a43a1823a",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libbz2.so.1.0.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libbz2.so.1.0.xspkg"
     },
     "so-libc.so.6": {
       "provides": [
@@ -222,7 +222,7 @@
       ],
       "sha256": "8f4cdebe4a99e7c5d0fa9d127f3c8d153eb66bd8f3524626d057321921aa9870",
       "sha3_256": "e620e95500dfa015c32f3d5ef3c6f1ce786513005da4f4ed99db0b7f7365840d",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libc.so.6.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libc.so.6.xspkg"
     },
     "so-libcap.so.2": {
       "provides": [
@@ -231,7 +231,7 @@
       ],
       "sha256": "d651cdfdd85a1324c506d57c6acc8c60870f7b64206c2095e17976eb6b2a798d",
       "sha3_256": "1792ce1a11b4fc0da8178c94ca9ad6c1411e9d48d92161e334f1376a51096d6c",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libcap.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libcap.so.2.xspkg"
     },
     "so-libcom_err.so.2": {
       "provides": [
@@ -240,7 +240,7 @@
       ],
       "sha256": "6d9758e29a0d5ac7cb179e9e87e0c06008c2bff1892eb62e515d30883db91de3",
       "sha3_256": "6a5789f0b1593ce7de53a0ceec9bf4ab181ea956ca0a169b3d939582ec121117",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libcom_err.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libcom_err.so.2.xspkg"
     },
     "so-libcrypto.so.3": {
       "provides": [
@@ -248,7 +248,7 @@
       ],
       "sha256": "2304908e896ea260ed4489a45fa09d50e97ff362445d04b42d1351b1eb9023d5",
       "sha3_256": "984c76306ea1b3a239f4b2006bb60828b53abf242feed082b19ac5672167fc94",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libcrypto.so.3.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libcrypto.so.3.xspkg"
     },
     "so-libcurl.so.4": {
       "provides": [
@@ -257,7 +257,7 @@
       ],
       "sha256": "6e8d71654d57ebfd200ed7aeba804cef8fc609f95f05a26fe6bd85c216c3a0bb",
       "sha3_256": "76f8584e54a150d1f5596375d2bc3a61b9f5a82ce61b969f2ba98bac0977cc76",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libcurl.so.4.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libcurl.so.4.xspkg"
     },
     "so-libffi.so.8": {
       "provides": [
@@ -266,7 +266,7 @@
       ],
       "sha256": "14c9bd4397430f3e3174fef54b821d75e8868c75541a3aabd0527e483009c87f",
       "sha3_256": "6727c004e1fc0a28607246518a61ef207cf2a7ab05f9d3961b85c9f27406fc7e",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libffi.so.8.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libffi.so.8.xspkg"
     },
     "so-libgmp.so.10": {
       "provides": [
@@ -275,7 +275,7 @@
       ],
       "sha256": "ae3c0ac500d0a5c106f5828d0f60dec743416c6b792cbc3fa1181a5b8f552105",
       "sha3_256": "a9a9ef0c504c8702187c5760dad2f30930f56697002af8937715b3ebe1acbd94",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libgmp.so.10.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libgmp.so.10.xspkg"
     },
     "so-libgnutls.so.30": {
       "provides": [
@@ -284,7 +284,7 @@
       ],
       "sha256": "fddc108c7aca2f26a966594ff961a9c681cc53738f8a6955b87918679ba9af43",
       "sha3_256": "0e49e5eb0958a658efdfbb6cfa2e99a0a7e1f4ad279dfd5e8dde426d986d97c7",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libgnutls.so.30.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libgnutls.so.30.xspkg"
     },
     "so-libgssapi_krb5.so.2": {
       "provides": [
@@ -293,7 +293,7 @@
       ],
       "sha256": "8d33fabe9357a9d22444df6f8aaeca9bca7f191c788188dd57c5c1b7251ca661",
       "sha3_256": "f9b40a07820cb6bf814867a2a34e057ca534d8b76128479a4314d92b745775fa",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libgssapi_krb5.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libgssapi_krb5.so.2.xspkg"
     },
     "so-libhogweed.so.6": {
       "provides": [
@@ -302,7 +302,7 @@
       ],
       "sha256": "dff53c427283607fac0ebcb7277f08d7f9c54981504c6afd1d24bd69b5f3051c",
       "sha3_256": "44633d2c60ca89b210b5d470fac61b209194f0d7376ba6ee9f47d94b0ff071ad",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libhogweed.so.6.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libhogweed.so.6.xspkg"
     },
     "so-libidn2.so.0": {
       "provides": [
@@ -311,7 +311,7 @@
       ],
       "sha256": "b03988d1bf1141dce7629e814154cd57c2cb141070b9e771575e898a5ed6e8d3",
       "sha3_256": "f42f1d9e45dd335145bb5cbe6ee936d1e0ca6af4c62a57cd93270bfd5d722c60",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libidn2.so.0.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libidn2.so.0.xspkg"
     },
     "so-libk5crypto.so.3": {
       "provides": [
@@ -320,7 +320,7 @@
       ],
       "sha256": "7971ce7d3d220700bcf9fa3094ce2dc37d544b6793a073be833d654a63e70060",
       "sha3_256": "ce3b29f6f94064e1b5deb6f1e9e54efca6559497e958fa5002b45de4d2f06efd",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libk5crypto.so.3.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libk5crypto.so.3.xspkg"
     },
     "so-libkeyutils.so.1": {
       "provides": [
@@ -329,7 +329,7 @@
       ],
       "sha256": "270e1371c43b9e51d8c8d6e4ea01b68426795e7004abcdb9048554818c36ffb1",
       "sha3_256": "6fdb1311a7d7e441b1da9d03d96bef55e9b520be889309aea38ccf607f15b185",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libkeyutils.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libkeyutils.so.1.xspkg"
     },
     "so-libkrb5.so.3": {
       "provides": [
@@ -338,7 +338,7 @@
       ],
       "sha256": "61e12b928b57d5b813df6424345b29833d86c7811e6118f530c5fae5a83af42b",
       "sha3_256": "64e93a4f145671b25cfc0526c7d5a209b8f3a455c163c8afb3883a1834b11f63",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libkrb5.so.3.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libkrb5.so.3.xspkg"
     },
     "so-libkrb5support.so.0": {
       "provides": [
@@ -347,7 +347,7 @@
       ],
       "sha256": "224f584050ec3bc4aebdd9e35420757423a75aa83bfc0e59b17a3566ba9b0c44",
       "sha3_256": "567a809c2a761703f9297aa5027da82b90f3e3d166b7e2aebfffce85c4aab379",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libkrb5support.so.0.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libkrb5support.so.0.xspkg"
     },
     "so-liblber.so.2": {
       "provides": [
@@ -356,7 +356,7 @@
       ],
       "sha256": "d3fdfd3f043e0868b28b6bf5d41d669cd350c8a61bafdba3c846dbee63682cea",
       "sha3_256": "fdee05aa751961fc4a3ddb200e45be95adc8b184f269a37ead8ffea500328c29",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-liblber.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-liblber.so.2.xspkg"
     },
     "so-libldap.so.2": {
       "provides": [
@@ -365,7 +365,7 @@
       ],
       "sha256": "135ecc882c23360902b303ebbcb6dae89a95a123e652be354315d00d85a737b5",
       "sha3_256": "d2c00b8fc15fc34e438ca7bfa1008116f885049305aeefcccb3f28c8c8edfe23",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libldap.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libldap.so.2.xspkg"
     },
     "so-liblz4.so.1": {
       "provides": [
@@ -374,7 +374,7 @@
       ],
       "sha256": "a3d61f7d2d36bf28a719fc0be6ab541efb0c558288a917546f1867f26d90f4df",
       "sha3_256": "c8b777ea5211d9df9d002d2550fc954f569a129323365ddc1e8eaa035037a38b",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-liblz4.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-liblz4.so.1.xspkg"
     },
     "so-liblzma.so.5": {
       "provides": [
@@ -383,7 +383,7 @@
       ],
       "sha256": "81f979508079223d689926045e9485782e431eb3dff4ab12a5cb8111c0d99855",
       "sha3_256": "e4f2607d054cc42fbce0eb424e27b778e3a89eda056fc09bf9583b28cd4fea09",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-liblzma.so.5.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-liblzma.so.5.xspkg"
     },
     "so-libm.so.6": {
       "provides": [
@@ -391,7 +391,7 @@
       ],
       "sha256": "21506f696df743d301b881f3dfef17c68fb163454eb1a7fb656f5a844f0bafc2",
       "sha3_256": "a0692565333777615a93fc0813cd3ee6d983d219950bfe9a90ebcfbe3556d911",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libm.so.6.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libm.so.6.xspkg"
     },
     "so-libnettle.so.8": {
       "provides": [
@@ -400,7 +400,7 @@
       ],
       "sha256": "5928d58cdc85bb27f859ed345ccff84b2cb290af0906ebcf34680d4a007cf598",
       "sha3_256": "81c44c03847b5a607422c6ab9b971d03f73fc33dcc52439006edf1e752fbf7c4",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libnettle.so.8.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libnettle.so.8.xspkg"
     },
     "so-libnghttp2.so.14": {
       "provides": [
@@ -409,7 +409,7 @@
       ],
       "sha256": "124519ee55fcca3165e8fb45cb99a27081ce3735a97815b36f62405a9a997a60",
       "sha3_256": "88f7d46acfaef032278f129425459fd305bb5e0aa152469b69f47ca3f8bf00fa",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libnghttp2.so.14.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libnghttp2.so.14.xspkg"
     },
     "so-libnghttp3.so.9": {
       "provides": [
@@ -418,7 +418,7 @@
       ],
       "sha256": "84d7f95f2e0bed3c2766faa5937dba811a4edb223c2842bea408d9f5ff0dfcf5",
       "sha3_256": "e79bc70fa51b426ae4151b63865a074f7e60825f7216ab423b9bf1c0d4836da6",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libnghttp3.so.9.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libnghttp3.so.9.xspkg"
     },
     "so-libp11-kit.so.0": {
       "provides": [
@@ -427,7 +427,7 @@
       ],
       "sha256": "109aaf7c23c100712292e39bb6ad2d20a4a1379281508bef8b603c62d0a9576a",
       "sha3_256": "267d916f86bece572b27d523c1c016854f33c0178807e04bc57b54a53081bd89",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libp11-kit.so.0.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libp11-kit.so.0.xspkg"
     },
     "so-libpcre2-8.so.0": {
       "provides": [
@@ -436,7 +436,7 @@
       ],
       "sha256": "f83be1bb78d752f060f06bcb4cd375424fa7de8848b271be41660a0af334201b",
       "sha3_256": "d38b3254cc54c54dbd5932549cc166e91d128e5355023f32518b999f352dd261",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libpcre2-8.so.0.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libpcre2-8.so.0.xspkg"
     },
     "so-libpsl.so.5": {
       "provides": [
@@ -445,7 +445,7 @@
       ],
       "sha256": "2c2062da2dff1180caf7bbb59e409868e5f5e97d9cc476582e816142d3a45e3d",
       "sha3_256": "9c273ac20f2749ad2d8a4c38f3cee309ab4232eb13c53b67397195fc17caa8fd",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libpsl.so.5.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libpsl.so.5.xspkg"
     },
     "so-libresolv.so.2": {
       "provides": [
@@ -453,7 +453,7 @@
       ],
       "sha256": "566a56864aab435892da03f1f0c4053d5c55b9c9fd09b2d9348ff48cfcf06c84",
       "sha3_256": "02c1a4f7d9c14f76ff3b4c64d8b1410942b395a52a9f2cfa1f2a97c1e09fbc0f",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libresolv.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libresolv.so.2.xspkg"
     },
     "so-librtmp.so.1": {
       "provides": [
@@ -461,7 +461,7 @@
       ],
       "sha256": "69b53ca0fc8346758db913a506cfa033cd965718cff265f27557b91968c28fae",
       "sha3_256": "1f27f5686dc1b105282cdc6ebbee19ab87f875540521a0db4ec301b76e9b063d",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-librtmp.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-librtmp.so.1.xspkg"
     },
     "so-libsasl2.so.2": {
       "provides": [
@@ -470,7 +470,7 @@
       ],
       "sha256": "0479a359868d31b15f08604e4a025632440f96d5f10dd8dc56f64c47b8dc4e12",
       "sha3_256": "97de203c5fe27fb26eab993b3e0a12612bbde51f3e1bc6b1129ede4f0126891f",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libsasl2.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libsasl2.so.2.xspkg"
     },
     "so-libselinux.so.1": {
       "provides": [
@@ -478,7 +478,7 @@
       ],
       "sha256": "926ecc84697023ac674025e23dc547810049a46771500a9f3e03c404db2a8cd3",
       "sha3_256": "9d491907ccb7fbb0127958d840dfd27843bf7fb497e503b94b3ee5ffc6cd639d",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libselinux.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libselinux.so.1.xspkg"
     },
     "so-libssh2.so.1": {
       "provides": [
@@ -487,7 +487,7 @@
       ],
       "sha256": "acdcdb7e6dff5fc3d561479eaeaa818e84a908b254018f6751b73a0c6db4d7b4",
       "sha3_256": "a51e53fcbb803fe64da05c7d691be512cdf3125e2d092d6a75751e9e64a6141d",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libssh2.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libssh2.so.1.xspkg"
     },
     "so-libssl.so.3": {
       "provides": [
@@ -495,7 +495,7 @@
       ],
       "sha256": "c2e14e76210bb2f08950229dc7bbe6c1f17a19bae6911be3c0d236c917f4cccf",
       "sha3_256": "a2d6e12d782e850be7c9ede36e1e84fe3ffe71331d896ac085a59ef51e41cd2c",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libssl.so.3.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libssl.so.3.xspkg"
     },
     "so-libsystemd.so.0": {
       "provides": [
@@ -504,7 +504,7 @@
       ],
       "sha256": "dedd69dc8ff4b56c75d94728a0ad59fdb4f9299f3f51d0e97e02809794f08891",
       "sha3_256": "0f8b2136dcaf65f9eef602d606204fd461e33ef54a48ca2e0b20db7e48390034",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libsystemd.so.0.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libsystemd.so.0.xspkg"
     },
     "so-libtasn1.so.6": {
       "provides": [
@@ -513,7 +513,7 @@
       ],
       "sha256": "d5b5fb2e8b1e36047ee5dff1a16393fa056a9df828345cf164a51ad5da5f7d3c",
       "sha3_256": "12431d8eb12fcdb43af06633f67ed5c9ff7b09a4419026c063adb142e38ddb53",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libtasn1.so.6.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libtasn1.so.6.xspkg"
     },
     "so-libtinfo.so.6": {
       "provides": [
@@ -522,7 +522,7 @@
       ],
       "sha256": "b4740c0b8e11153a3d5bd9119c56e134d4a328c21a51885b883c544c1aaadbec",
       "sha3_256": "5c4b98f0921dfc1e1144e6440b6279b4c2164d2f3fba754e7d45a5f2c40bd770",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libtinfo.so.6.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libtinfo.so.6.xspkg"
     },
     "so-libunistring.so.5": {
       "provides": [
@@ -531,7 +531,7 @@
       ],
       "sha256": "77dc7a1d72d7ff6ffbde43f79243452ac0b92001f407a97b2f0402824556a6d8",
       "sha3_256": "d95b2a06cf4894b7fe84988df6208b399e75df0f7bc6d0be2ad53700775da6f8",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libunistring.so.5.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libunistring.so.5.xspkg"
     },
     "so-libxml2.so.2": {
       "provides": [
@@ -540,7 +540,7 @@
       ],
       "sha256": "798bebdaf8653e4793cb1800aad3bd6b42b959d6b2e52dfe867a5a88cd7f1679",
       "sha3_256": "6186d92809a198c58b39c6588b1aa6141230710fbd08f92907a0e6fed4a17e59",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libxml2.so.2.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libxml2.so.2.xspkg"
     },
     "so-libxxhash.so.0": {
       "provides": [
@@ -549,7 +549,7 @@
       ],
       "sha256": "3dad43b7bb1db7268e895a3566cfc07cd4113515e273db1f8b393ecddfaba192",
       "sha3_256": "e78ffa18bac122b6ebe9e10b60a82a4c8db9e9a8ca83b84155ccd7190037ecf8",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libxxhash.so.0.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libxxhash.so.0.xspkg"
     },
     "so-libz.so.1": {
       "provides": [
@@ -558,7 +558,7 @@
       ],
       "sha256": "d0b13643d9b96044b760e1165e7bf28c8cbc7381517993dccebb44099b0dfa8e",
       "sha3_256": "bb9a0947ece58ff85731c7c3312a19540486660e06ff32e87aef96967ee06d2e",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libz.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libz.so.1.xspkg"
     },
     "so-libzstd.so.1": {
       "provides": [
@@ -567,7 +567,7 @@
       ],
       "sha256": "4c546a5e693bd3a655d2fe2234d9eea27feffebf20397dde0f23240bc403ac9f",
       "sha3_256": "27fc6678cfc8093ca4ccd21114892581d33c40bcfdb913a15771534f5b76eed3",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libzstd.so.1.xspkg"
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/packages/so-libzstd.so.1.xspkg"
     }
   }
 }
