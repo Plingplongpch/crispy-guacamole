@@ -1,5 +1,4 @@
 {
-  "pling": {
     "packages": {
       "bash": {
         "provides": [
@@ -806,5 +805,4 @@
         "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/xxd.xspkg"
       }
     }
-  }
 }
