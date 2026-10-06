@@ -1,5 +1,5 @@
 {
-  "pling": {
+  "main": {
     "bash": {
       "provides": [
         "/bin/bash"
