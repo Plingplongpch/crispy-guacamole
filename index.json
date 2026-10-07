@@ -732,6 +732,14 @@
       "sha3_256": "5edf613443555c4c9a12639568d4dda505d8195735a46dfe33a3b8f6635e7c80",
       "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/strings.xspkg"
     },
+    "tinyvi": {
+      "provides": [
+        "/usr/bin/vi"
+      ],
+      "sha256": "591bfefde44aaa8bb5e971ab6093272ed8ca9828feba7a7fd83d0e19696935c9",
+      "sha3_256": "78f48a22a2ef6b61fef17b61104ce9d8ddfd3dc10262234ad823f50c5fb1c340",
+      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/tinyvi.xspkg"
+    },
     "tree": {
       "provides": [
         "/usr/bin/tree"
@@ -747,14 +755,6 @@
       "sha256": "eb8a3699154b9e280be1e8544bb28bbfecb5f5c5b160947e805c0c89b7289107",
       "sha3_256": "e0b6412388fef6dad2f1811d39336bea4a185adce06d833f2bcae13d2313e71f",
       "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/uptime.xspkg"
-    },
-    "vi": {
-      "provides": [
-        "/usr/bin/vi"
-      ],
-      "sha256": "1e1b5ff248c31590d4305ca6221145dabb0ff79339061ffde445f8256773df99",
-      "sha3_256": "1b690c06156ba97375c15d06db3ae5ac214ee9d1a945fcb73ff80d69a91419b4",
-      "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/vi.xspkg"
     },
     "wall": {
       "provides": [
