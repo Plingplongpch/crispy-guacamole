@@ -1,4 +1,5 @@
 {
+  "pling": {
     "packages": {
       "bash": {
         "provides": [
@@ -752,8 +753,8 @@
         "provides": [
           "/usr/bin/vi"
         ],
-        "sha256": "4cd645b8e8e79097daa194d4761800f66389ec473aba159021244f12673edb8f",
-        "sha3_256": "90ea0ddf943eb86b7cba12928cc0774badc7fb6537b9f11c1457504f54b95084",
+        "sha256": "1e1b5ff248c31590d4305ca6221145dabb0ff79339061ffde445f8256773df99",
+        "sha3_256": "1b690c06156ba97375c15d06db3ae5ac214ee9d1a945fcb73ff80d69a91419b4",
         "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/vi.xspkg"
       },
       "wall": {
@@ -805,4 +806,5 @@
         "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/xxd.xspkg"
       }
     }
+  }
 }
