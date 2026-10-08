@@ -313,8 +313,8 @@
         "/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2",
         "/lib64/ld-linux-x86-64.so.2"
       ],
-      "sha256": "a6d91f1889f8e51e51e37e07fa1ce0f2d9531641ad5384ace684b5a28059fed6",
-      "sha3_256": "2b83179b737bdd4feebade15a8b2c916bd3f0df0107b25dd596305ff60150a3f",
+      "sha256": "191f5ca60542c201282c13c32ccaef3d1287113a07d77ef75bdb1e3855ab69a9",
+      "sha3_256": "a02241608595c2412dcacd9ba79eea749673fc489dbd39ef926d59d969d48665",
       "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-ld-linux-x86-64.so.2.xspkg"
     },
     "so-libacl.so.1": {
@@ -375,8 +375,8 @@
       "provides": [
         "/lib/x86_64-linux-gnu/libc.so.6"
       ],
-      "sha256": "8f4cdebe4a99e7c5d0fa9d127f3c8d153eb66bd8f3524626d057321921aa9870",
-      "sha3_256": "e620e95500dfa015c32f3d5ef3c6f1ce786513005da4f4ed99db0b7f7365840d",
+      "sha256": "84e2a9e86a12a31af2600ba7871bded24d7153a446536f3cca0068b1c3c56245",
+      "sha3_256": "09ead556bc01a2f71cf1cdbf45596f0eba80f2146ccc3350dcc74f288d90740a",
       "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libc.so.6.xspkg"
     },
     "so-libcap.so.2": {
@@ -544,8 +544,8 @@
       "provides": [
         "/lib/x86_64-linux-gnu/libm.so.6"
       ],
-      "sha256": "21506f696df743d301b881f3dfef17c68fb163454eb1a7fb656f5a844f0bafc2",
-      "sha3_256": "a0692565333777615a93fc0813cd3ee6d983d219950bfe9a90ebcfbe3556d911",
+      "sha256": "ddd36b7efa2f7d42cef0878558acc787f0936cd0b82fb689ad0064ec86a293ae",
+      "sha3_256": "fb6e7ee0f38965b002c42229b365d444520d2cb990fa91a8990dd746c58cdb63",
       "url": "https://raw.githubusercontent.com/Plingplongpch/crispy-guacamole/refs/heads/main/packages/so-libm.so.6.xspkg"
     },
     "so-libnettle.so.8": {
